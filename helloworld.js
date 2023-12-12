@@ -1,9 +1,14 @@
 // Création d'une liste de 1 a 100 //
 
-let i = 0;
+let liste = 0;
 do {
-  i += 1;
-  console.log(i);
-} while (i < 100);
+  liste += 1;
+  console.log(liste);
+} while (liste < 199);
+
+// Rechercher les multiples de la liste //
+
+
+
 
 
