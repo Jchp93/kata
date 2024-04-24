@@ -1,6 +1,7 @@
 KATA 1
 Fonction LISTE fizzBuzz (liste)
 DEBUT
+nombre maximum de la liste = 100
 liste (lister les nombres entier de 1 à 100)
 Fonction SI liste (fizz , buzz , fizzBuzz) 
 DEBUT
