@@ -1,7 +1,7 @@
 let nombreMax = 100;
 
 let liste = "";
-let fizz = "Fizz ";
+let fizz = "Fizz";
 let buzz = "Buzz";
 
 for (let i = 1; i <= nombreMax; i++) {
